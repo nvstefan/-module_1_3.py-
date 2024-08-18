@@ -1,5 +1,5 @@
-name = 'Name: Николай'
-print(name)
+name = 'Николай'
+print('Name:',name)
 age = 68
 print('Age:',age)
 age = age +1
